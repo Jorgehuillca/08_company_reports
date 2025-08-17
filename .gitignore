@@ -1,0 +1,9 @@
+env/
+# Ignorar caches de Python
+__pycache__/
+
+# Ignorar migraciones de Django
+company_reports/migrations/
+
+# También podrías ignorar todas las migraciones del proyecto
+*/migrations/
